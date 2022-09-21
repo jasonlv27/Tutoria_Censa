@@ -1,0 +1,7 @@
+Listado de rutas de carpetas para el volumen Windows-SSD
+El número de serie del volumen es 121A-523B
+C:.
++---Tarea2
+    +---prueba1
+    +---prueba2
+    +---prueba3
